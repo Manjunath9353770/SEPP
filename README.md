@@ -1,2 +1,3 @@
 # SEPP
-soft
+software engineering
+Steps to runnig the program
